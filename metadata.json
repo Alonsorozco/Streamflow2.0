@@ -1,0 +1,6 @@
+{
+  "name": "Reproductor M3U",
+  "description": "Un reproductor M3U básico e intuitivo para reproducir listas de canales, IPTV y contenido multimedia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

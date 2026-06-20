@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Platform_Logo.png" group-title="Canales de Prueba HD",Big Buck Bunny (HLS Stream)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sintel_poster.jpg/420px-Sintel_poster.jpg" group-title="Canales de Prueba HD",Sintel Cinema (HLS Movie)
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Ciencia y Espacio",NASA TV Live (Espacio)
+https://ntv1.nasatv.net/hls/main/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Deutsche_Welle_logo_2012.svg/1200px-Deutsche_Welle_logo_2012.svg.png" group-title="Noticias e Internacional",DW Español (DW Latino)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131316/index_4_av-b.m3u8
